@@ -8,6 +8,6 @@
     </script>
 </head>
 <body>
-    <p>If you are not redirected automatically, follow this <a href="http://localchatindia.azurewebsites.net">link to Local Chat India</a>.</p>
+    <p>If you are not redirected automatically, follow this <a href="http://localchatindia.com">link to Local Chat India</a>.</p>
 </body>
 </html>
